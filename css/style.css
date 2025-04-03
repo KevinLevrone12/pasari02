@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background-image: url("../images/images.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment : fixed;
+    background-size: cover;
+}
+header {
+    height: 50px;
+    background-color: rgba(0, 0, 255, 0.23);
+
+}
+h1 {
+    margin: 0;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 25px;
+}
+h3 {
+    padding: 10px;
+}
+ul {
+
+}
+
+footer  {
+    height: 150px;
+    background-color: rgba(240, 255, 255, 0.164);
+}
+main {
+    min-height: 535px;
+}
